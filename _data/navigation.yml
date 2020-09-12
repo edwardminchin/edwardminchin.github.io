@@ -21,5 +21,8 @@ main:
   - title: "Guide"
     url: /markdown/
 
+  - title: "test"
+    url: /test/
+
   - title: "fuck"
     url: /fuck/
