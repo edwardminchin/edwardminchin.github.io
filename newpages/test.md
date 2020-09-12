@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 This better work.
-
 layout: archive
 title: "CV"
 permalink: /cv/

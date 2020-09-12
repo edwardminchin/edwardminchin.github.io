@@ -247,11 +247,11 @@ defaults:
       share: true
   # newpages
   - scope:
-    path: ""
-    type: newpages
-  values:
-    layout: single
-    author_profile: true
+      path: ""
+      type: newpages
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
