@@ -1,10 +1,8 @@
 ---
 layout: default
-permalink: /test/
+permalink: /1/
 title: "testpage"
 excerpt: "About me"
-redirect_from: 
-  - /test/
 ---
 
 ABC
