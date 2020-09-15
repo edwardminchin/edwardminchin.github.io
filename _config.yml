@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test Website"
+title                    : "Dr. Edward Minchin"
 title_separator          : "-"
 name                     : &name "Test"
 description              : &description "personal description"
