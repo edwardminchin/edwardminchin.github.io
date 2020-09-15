@@ -80,10 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Test"
+  name             : "Dr. Edward Minchin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "UF Research Foundation Professor UF Term Professor
+  Holland Professor
+  "
+  location         : "M.E. Rinker Sr. School of Construction Management"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
