@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-# Education
+## Education
 
 |     Institution                      |     Field of Study       |     Degree                          |     Area of Emphasis           |
 |--------------------------------------|--------------------------|-------------------------------------|--------------------------------|
@@ -19,9 +19,8 @@ redirect_from:
 |     Chipola College                  |     Pre-Engineering      |     Associate of Arts (AA)          |     Pre-engineering            |
 
 
-# Employment
-
-## Academic Employment
+## Employment
+### Academic Employment
 
 |     Institution                |     Position                                       |     Dates                        |     Status                   |
 |--------------------------------|----------------------------------------------------|----------------------------------|------------------------------|
@@ -34,3 +33,15 @@ redirect_from:
 |     Iowa State University      |     Assistant Professor                            |     Aug.   1999 – Aug. 2001      |     Tenure   Accruing        |
 |     PA Transportation Inst.    |     Faculty Associate                              |     Aug.   1996 – Aug. 2000      |     Non-tenure   Accruing    |
 |     Penn State University      |      Lecturer                                      |     Aug.   1996 – Aug. 1998      |     Non-tenure   Accruing    |
+
+### Industry Employment
+
+| Industry                                | Position                                                    | Dates               | Location                              |
+|-----------------------------------------|-------------------------------------------------------------|---------------------|---------------------------------------|
+| Florida Department of Transportation    | Chief Area Construction Engineer (Asst. State Const. Engr.) | Nov 1992 - Aug 1996 | Tallahasee, Florida                   |
+| Florida Department of Transportation    | Resident Construction Engineer                              | Jun 1987 - Nov 1992 | Crestview, Florida                    |
+| United States Navy Civil Engineer Corps | Reserve Officer -Const. Battalion                           | Apr 1986 - Sep 1994 | Jacksonville and Tallahassee, Florida |
+| Florida Department of Transportation    | Drainage Design Engineer                                    | Dec 1985 - Jun 1987 | Lake City, Florida                    |
+| Couch Construction Inc.                 | Estimator                                                   | Aug 1984 - Feb 1985 | Tampa, Florida                        |
+| Florida Department of Transportation    | Cooperative Engineering Employee                            | Jun 1977 - Dec 1981 | Chipley and Gainesville, Florida      |
+
