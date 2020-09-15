@@ -81,11 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Edward Minchin"
-  avatar           : "profile.png"
-  bio              : "UF Research Foundation Professor UF Term Professor
-  Holland Professor
-  "
-  location         : "M.E. Rinker Sr. School of Construction Management"
+  avatar           : "Edward-Minchin-1-1.jpg"
+  bio              : "UF Research Foundation Professor, Term Professor <br> Holland Professor"
+  location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -98,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ngbrianyc"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
