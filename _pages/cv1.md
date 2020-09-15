@@ -23,14 +23,14 @@ redirect_from:
 
 ## Academic Employment
 
-|           Institution          |                        Position                             |               Dates              |             Status           |
-|:------------------------------:|:-----------------------------------------------------------:|:--------------------------------:|:----------------------------:|
-|     University of Florida      |      Professor                                              |     Aug.   2013 - Present        |     Tenure                   |
-|     University of Florida      |      Interim ASO   Director      Rinker   School of C.M.    |     July,   2017 – July, 2018    |     n/a                      |
-|     University of Florida      |      Director of   Master’s      Programs, Rinker           |     Aug.   2011 – July, 2018     |     n/a                      |
-|     Northeastern University    |      Visiting   Scholar                                     |     Aug.   2015 – Aug. 2016      |     Non-tenure   Accruing    |
-|     University of Florida      |      Associate   Professor                                  |     Aug.   2007 – Aug. 2013      |     Tenure                   |
-|     University of Florida      |      Assistant   Professor                                  |     Aug.   2001 – Aug. 2007      |     Tenure   Accruing        |
-|     Iowa State University      |      Assistant   Professor                                  |     Aug.   1999 – Aug. 2001      |     Tenure   Accruing        |
-|     PA Transportation Inst.    |      Faculty   Associate                                    |     Aug.   1996 – Aug. 2000      |     Non-tenure   Accruing    |
-|     Penn State University      |      Lecturer                                               |     Aug.   1996 – Aug. 1998      |     Non-tenure   Accruing    |
+|     Institution                |     Position                                       |     Dates                        |     Status                   |
+|--------------------------------|----------------------------------------------------|----------------------------------|------------------------------|
+|     University of Florida      |      Professor                                     |     Aug.   2013 - Present        |     Tenure                   |
+|     University of Florida      |      Interim ASO Director Rinker School of C.M.    |     July,   2017 – July, 2018    |     n/a                      |
+|     University of Florida      |      Director of Master’s Programs, Rinker         |     Aug.   2011 – July, 2018     |     n/a                      |
+|     Northeastern University    |      Visiting Scholar                              |     Aug.   2015 – Aug. 2016      |     Non-tenure   Accruing    |
+|     University of Florida      |      Associate Professor                           |     Aug.   2007 – Aug. 2013      |     Tenure                   |
+|     University of Florida      |      Assistant Professor                           |     Aug.   2001 – Aug. 2007      |     Tenure   Accruing        |
+|     Iowa State University      |     Assistant Professor                            |     Aug.   1999 – Aug. 2001      |     Tenure   Accruing        |
+|     PA Transportation Inst.    |     Faculty Associate                              |     Aug.   1996 – Aug. 2000      |     Non-tenure   Accruing    |
+|     Penn State University      |      Lecturer                                      |     Aug.   1996 – Aug. 1998      |     Non-tenure   Accruing    |
