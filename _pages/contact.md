@@ -20,4 +20,4 @@ title: "Contact Info"
 RNK 302
 
 ### Phone:
-352-273-1153
+(352) 273-1153
