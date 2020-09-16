@@ -4,8 +4,11 @@ permalink: /contact/
 author_profile: true
 title: "Contact Info"
 ---
-### Email
-<a href = "mailto: minch@ufl.edu"> Email </a>
+### Email:
+<a href = "mailto: minch@ufl.edu"> minch@ufl.edu </a>
+
+### College Profile:
+<a href = "https://dcp.ufl.edu/faculties/minchin-edward/"> Edward Minchin </a>
 
 ### Mailing Address:
 <address>
