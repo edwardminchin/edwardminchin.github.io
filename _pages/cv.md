@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+Dr. Edward Minchin's full Curriculum Vitae can be accessed with the [following link](http://ngbrianyc.github.io/files/CV.pdf):
 
 ## Education
 
