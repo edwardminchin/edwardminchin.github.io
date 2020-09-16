@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-A full list of Dr. Edward Minchin's publications and related work can be accessed with the [following link] (http://ngbrianyc.github.io/files/PUBLICATIONS.pdf):
+A full list of Dr. Edward Minchin's publications and related work can be accessed with the [following link](http://ngbrianyc.github.io/files/PUBLICATIONS.pdf):
 <br>
 
 {% if author.googlescholar %}
