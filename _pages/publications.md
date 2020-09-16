@@ -5,13 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 A full list of Dr. Edward Minchin's publications and related work can be accessed with the [following link](http://ngbrianyc.github.io/files/PUBLICATIONS.pdf)
-<br>
-<div id="pdfholder"></div>
-<script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("/files/PUBLICATIONS.pdf", "pdfholder");</script>
-<style>
-.pdfobject-container { height: 30rem; border: 1rem solid rgba(0,0,0,.1); }
-</style>
+<object data='http://ngbrianyc.github.io/files/PUBLICATIONS.pdf' 
+        type='application/pdf' 
+        width='100%' 
+        height='100%'>
+<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="http://ngbrianyc.github.io/files/PUBLICATIONS.pdf">Download PDF</a></p>
+</object>
+<script src='/path-to-your-javascript-file/pdfobject.js'></script>
+<script>
+PDFObject.embed("http://ngbrianyc.github.io/files/PUBLICATIONS.pdf");
+</script>
 
 <!-- <{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
