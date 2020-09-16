@@ -84,11 +84,11 @@ author:
   avatar           : "Edward-Minchin-1-1.jpg"
   bio              : "UF Research Foundation Professor, Term Professor <br> Holland Professor"
   location         : 
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : 
+  pubmed           :
+  googlescholar    :
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/R_Minchin"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,7 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  links:
+    - label: "Location"
+      icon: "fas fa-university"
+      url: "https://dcp.ufl.edu/faculties/minchin-edward/"
 
 # Reading Files
 include:
