@@ -12,8 +12,8 @@ A full list of Dr. Edward Minchin's publications and related work can be accesse
     </embed>
 </object>
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=http://ngbrianyc.github.io/files/PUBLICATIONS.pdf" width="500" height="375">
+<!-- <embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=http://ngbrianyc.github.io/files/PUBLICATIONS.pdf" width="500" height="375"> -->
 <!-- <object data='http://ngbrianyc.github.io/files/PUBLICATIONS.pdf' 
         type='application/pdf' 
         width='100%' 
