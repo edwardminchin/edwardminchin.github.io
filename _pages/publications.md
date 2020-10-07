@@ -4,13 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-A full list of Dr. Edward Minchin's publications and related work can be accessed with the [following link](http://ngbrianyc.github.io/files/PUBLICATIONS.pdf)
+A full list of Dr. Edward Minchin's publications and related work can be accessed with the [following link]("https://edwardminchin.github.io/files/PUBLICATIONS.pdf")
 
-<object data="http://ngbrianyc.github.io/files/PUBLICATIONS.pdf" type="application/pdf" width="750px" height="750px">
+<iframe src="https://edwardminchin.github.io/files/PUBLICATIONS.pdf" width="100%" height = "200%">
+
+<!-- <object data="http://ngbrianyc.github.io/files/PUBLICATIONS.pdf" type="application/pdf" width="750px" height="750px">
     <embed src="http://ngbrianyc.github.io/files/PUBLICATIONS.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://ngbrianyc.github.io/files/PUBLICATIONS.pdf">Download PDF</a>.</p>
     </embed>
-</object>
+</object> -->
 
 <!-- <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=http://ngbrianyc.github.io/files/PUBLICATIONS.pdf" width="500" height="375"> -->
