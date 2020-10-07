@@ -6,7 +6,7 @@ author_profile: true
 ---
 A full list of Dr. Edward Minchin's publications and related work can be accessed with the [following link]("https://edwardminchin.github.io/files/PUBLICATIONS.pdf")
 
-<iframe src="https://edwardminchin.github.io/files/PUBLICATIONS.pdf" width="100%" height = "200%">
+<iframe src="https://edwardminchin.github.io/files/PUBLICATIONS.pdf" style = "width: 100%; height: 100vh;">
 
 <!-- <object data="http://ngbrianyc.github.io/files/PUBLICATIONS.pdf" type="application/pdf" width="750px" height="750px">
     <embed src="http://ngbrianyc.github.io/files/PUBLICATIONS.pdf" type="application/pdf">
